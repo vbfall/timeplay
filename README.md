@@ -1,4 +1,5 @@
-##Description
+## Description
+
 This was a quick project to show some code to my 7yo child and also play with some math with him.
 
 It is intended to calculate days and hours from birthdate to current date (though in practice it could be any two dates).
